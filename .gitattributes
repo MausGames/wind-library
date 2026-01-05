@@ -12,11 +12,13 @@
 *.jpg         binary
 *.png         binary
 *.svg         binary
+*.webp        binary
 *.xcf         binary
 
 # audio
 *.mp3         binary
 *.ogg         binary
+*.opus        binary
 *.wav         binary
 
 # video
@@ -25,7 +27,6 @@
 *.webm        binary
 
 # font
-*.eot         binary
 *.otf         binary
 *.ttf         binary
 *.woff        binary
@@ -34,6 +35,8 @@
 # model
 *.blend       binary
 *.md3         binary
+*.md3z        binary
+*.md5z        binary
 
 # document
 *.docx        binary
